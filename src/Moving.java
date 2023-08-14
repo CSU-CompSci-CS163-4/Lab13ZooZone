@@ -12,7 +12,7 @@ public class Moving {
         BirdsBox = new ArrayList<>();
         FelinesBox = new ArrayList<>();
         ReptilesBox = new ArrayList<>();
-        MovingBoxes(filename);
+        movingBoxes(filename);
     }
 
     /**
@@ -112,6 +112,6 @@ public class Moving {
             System.out.println(reptile.getName());
         }
         System.out.println();
-        System.out.println(mover.HeadCount());
+        System.out.println(mover.headCount());
     }
 }
