@@ -13,4 +13,4 @@ For instructions on completing these methods, see the [Javadoc](https://csu-comp
 Make sure to test your work. Some of the methods are tested for you in main, but be sure to add your own tests!
 
 # Step 3 -- Turning It In
-Once you're done writing and testing the methods, go ahead and submit your files to Zybooks!
+Once you're done writing and testing the methods, zip "Moving.java" and submit that to canvas. You do not need to include any of the other Java file for the assignment.
