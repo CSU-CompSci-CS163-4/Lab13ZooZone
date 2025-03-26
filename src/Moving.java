@@ -98,7 +98,7 @@ public class Moving {
 
 
     public static void main(String[] args) {
-        String file = "src/Animals.txt";
+        String file = args[0]; //CODE CRITICAL LINE DO NOT CHANGE, USED FOR GRADING PURPOSES     
         Moving mover = new Moving(file);
         for (Bird bird: mover.BirdsBox){
             System.out.println(bird.getName());
